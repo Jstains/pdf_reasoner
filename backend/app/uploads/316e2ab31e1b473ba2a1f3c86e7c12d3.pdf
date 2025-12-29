@@ -1,0 +1,693 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7275
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+42.5196850393700814 799.3703149606299121 Td
+(BBC Evidence-Bound RAG Copilot Report) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+42.5196850393700814 756.8506299212598378 Td
+(Final Draft) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 728.5041732283464171 Td
+(**UK Inflation Falls to 3.2% in February**) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 700.15771653543311 Td
+(UK inflation, as measured by the Consumer Prices Index \(CPI\), decreased from 3.9% to 3.2% in February,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 685.9844881889763428 Td
+(according to the Office for National Statistics \(ONS\) [1]. This fall was primarily influenced by lower prices for food) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 671.8112598425196893 Td
+(and non-alcoholic beverages, alongside a reduction in energy costs [1].) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 643.4648031496062686 Td
+(While inflation is trending downwards, the Bank of England has noted that core inflation remains a concern [2]. The) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 629.291574803149615 Td
+(Monetary Policy Committee \(MPC\) is expected to maintain interest rates at their current level until there is more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 615.1183464566928478 Td
+(definitive evidence of sustained price stability [2]. BBC Editorial Guidelines state that content must avoid implying) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 600.9451181102361943 Td
+(certainty in economic forecasts and requires clear attribution to official sources for economic data [3].) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 572.5986614173227736 Td
+(Despite the headline inflation drop, a recent survey by the National Consumer Council found that many households) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 558.42543307086612 Td
+(continue to report pressure on their budgets due to the high cost of essential goods [4]. The survey also indicated) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+42.5196850393700814 544.2522047244094665 Td
+(an intensification of supermarket price competition, particularly within dairy and bread products [4].) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+42.5196850393700814 501.7325196850393354 Td
+(Provenance Report) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 473.3860629921259147 Td
+({) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 462.0474803149605805 Td
+(  "task": "Write Explainer",) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 450.7088976377952463 Td
+(  "topic": "Article on: UK Inflation Falls to 3.2%",) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 439.3703149606298552 Td
+(  "validationResult": {) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 428.0317322834645211 Td
+(    "evidenceCoverageScore": 100,) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 416.69314960629913 Td
+(    "missingFacts": [],) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 405.3545669291337958 Td
+(    "contradictionWarnings": [],) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 394.0159842519684616 Td
+(    "policyBreaches": [],) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 382.6774015748030706 Td
+(    "sentenceSourceMap": [) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 371.3388188976377364 Td
+(      {) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 360.0002362204724022 Td
+(        "sentence": "UK inflation, as measured by the Consumer Prices Index \(CPI\), decreased from 3.9% to) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 348.6616535433070112 Td
+(3.2% in February, according to the Office for National Statistics \(ONS\).",) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 337.323070866141677 Td
+(        "sourceId": 1) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 325.9844881889763428 Td
+(      },) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 314.6459055118109518 Td
+(      {) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 303.3073228346455608 Td
+(        "sentence": "This fall was primarily influenced by lower prices for food and non-alcoholic) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 291.9687401574802834 Td
+(beverages, alongside a reduction in energy costs.",) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 280.6301574803148924 Td
+(        "sourceId": 1) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 269.2915748031495013 Td
+(      },) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 257.952992125984224 Td
+(      {) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 246.614409448818833 Td
+(        "sentence": "While inflation is trending downwards, the Bank of England has noted that core) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 235.2758267716534419 Td
+(inflation remains a concern.",) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 223.9372440944881646 Td
+(        "sourceId": 2) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 212.5986614173227736 Td
+(      },) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 201.2600787401573825 Td
+(      {) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 189.9214960629919915 Td
+(        "sentence": "The Monetary Policy Committee \(MPC\) is expected to maintain interest rates at their) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 178.5829133858267141 Td
+(current level until there is more definitive evidence of sustained price stability.",) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 167.2443307086613231 Td
+(        "sourceId": 2) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 155.9057480314959321 Td
+(      },) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 144.5671653543306547 Td
+(      {) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 133.2285826771652637 Td
+(        "sentence": "BBC Editorial Guidelines state that content must avoid implying certainty in economic) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 121.8899999999998727 Td
+(forecasts and requires clear attribution to official sources for economic data.",) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 110.5514173228345953 Td
+(        "sourceId": 3) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 99.2128346456692043 Td
+(      },) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 87.8742519685038133 Td
+(      {) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 76.5356692913385359 Td
+(        "sentence": "Despite the headline inflation drop, a recent survey by the National Consumer Council) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 65.1970866141731449 Td
+(found that many households continue to report pressure on their budgets due to the high cost of essential) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 53.8585039370077538 Td
+(goods.",) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1284
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 799.3703149606299121 Td
+(        "sourceId": 4) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 788.0317322834645211 Td
+(      },) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 776.69314960629913 Td
+(      {) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 765.3545669291338527 Td
+(        "sentence": "The survey also indicated an intensification of supermarket price competition,) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 754.0159842519684616 Td
+(particularly within dairy and bread products.",) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 742.6774015748030706 Td
+(        "sourceId": 4) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 731.3388188976377933 Td
+(      }) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 720.0002362204724022 Td
+(    ]) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 708.6616535433070112 Td
+(  },) Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 697.3230708661417339 Td
+(  "timestamp": "2025-11-13T06:51:23.533Z") Tj
+ET
+BT
+/F5 8 Tf
+9.1999999999999993 TL
+0 g
+42.5196850393700814 685.9844881889763428 Td
+(}) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20251113122123+05'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000008952 00000 n 
+0000010777 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007479 00000 n 
+0000007616 00000 n 
+0000009015 00000 n 
+0000009140 00000 n 
+0000009270 00000 n 
+0000009403 00000 n 
+0000009541 00000 n 
+0000009665 00000 n 
+0000009794 00000 n 
+0000009926 00000 n 
+0000010062 00000 n 
+0000010190 00000 n 
+0000010317 00000 n 
+0000010446 00000 n 
+0000010579 00000 n 
+0000010681 00000 n 
+0000011027 00000 n 
+0000011113 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <C133F4C602601EC94D5E4C578D900235> <C133F4C602601EC94D5E4C578D900235> ]
+>>
+startxref
+11217
+%%EOF

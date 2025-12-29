@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_CHAT_MODEL=${GEMINI_CHAT_MODEL:-gemini-2.0-flash}
+      - GEMINI_EMBED_MODEL=${GEMINI_EMBED_MODEL:-models/embedding-001}
+      - UPLOAD_DIR=/app/app/uploads
+    volumes:
+      - ./backend/app/uploads:/app/app/uploads
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_URL=http://localhost:8000/api
+      - REACT_APP_API_UPLOAD_BASE=http://localhost:8000
+    depends_on:
+      - backend
